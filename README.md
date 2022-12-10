@@ -27,4 +27,7 @@ Shown in home page
 Override list.phtml file for static content
 Directory C:\xampp\htdocs\selise\app\design\frontend\Magento\luma_child\Magento_Catalog
 
+#database
+/
+base url http://localhost/selise/
 
