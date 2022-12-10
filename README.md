@@ -29,5 +29,6 @@ Directory C:\xampp\htdocs\selise\app\design\frontend\Magento\luma_child\Magento_
 
 #database
 /
+#
 base url http://localhost/selise/
 
